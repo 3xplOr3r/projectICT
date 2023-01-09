@@ -52,5 +52,6 @@ var swiper = new Swiper(".mySwiper", {
         delay: 2500,
     },
     loop: true,
+    speed: 1200,
   });
 
