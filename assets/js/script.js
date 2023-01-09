@@ -48,6 +48,9 @@ var swiper = new Swiper(".mySwiper", {
       modifier: 2,
       slideShadows: false,
     },
+    autoplay: {
+        delay: 2500,
+    },
     loop: true,
   });
 
